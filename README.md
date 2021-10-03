@@ -7,6 +7,8 @@
 
 ###### Descripción de la PEC tag
 
+En esta PEC
+
 ###### Dificultades tag
 
 ###### Mejoras realizadas tag

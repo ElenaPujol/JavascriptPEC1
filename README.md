@@ -4,12 +4,12 @@
 ###### by Elena Pujol Olmos tag
 
 
-## Descripción de la PEC tag
+## Descripción de la PEC
 
 En esta PEC
 
-###### Dificultades tag
+###### Dificultades
 
-###### Mejoras realizadas tag
+###### Mejoras realizadas
 
-###### Observaciones tag
+###### Observaciones

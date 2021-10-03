@@ -8,8 +8,8 @@
 
 En esta PEC
 
-###### Dificultades
+## Dificultades
 
-###### Mejoras realizadas
+## Mejoras realizadas
 
-###### Observaciones
+## Observaciones
